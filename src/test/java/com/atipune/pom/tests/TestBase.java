@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class TestBase {
-	
+	//this is static vaiable.
 	public static WebDriver driver;
 	
 	public static void initDriver()
